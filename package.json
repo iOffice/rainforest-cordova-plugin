@@ -1,0 +1,19 @@
+{
+  "name": "rainforest-cordova-plugin",
+  "version": "1.0.0",
+  "description": "Plugin to add the Rainforest iOS framework in Ionic/Cordova projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iOffice/rainforest-cordova-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iOffice/rainforest-cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/iOffice/rainforest-cordova-plugin#readme"
+}
